@@ -7,7 +7,7 @@ public class main {
 
 		System.out.println("Zweiter Test");
 		
-		System.out.println("Let's create a branch");
+		System.out.println("Let's create a branch2");
 	}
 
 }
